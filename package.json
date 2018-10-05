@@ -1,0 +1,27 @@
+{
+  "name": "details-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit1612/details-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit1612/details-dapp/issues"
+  },
+  "homepage": "https://github.com/Ankit1612/details-dapp#readme",
+  "dependencies": {
+    "ipfs-mini": "^1.1.2",
+    "truffle-hdwallet-provider": "0.0.6",
+    "uport-connect": "^0.8.4"
+  }
+}
